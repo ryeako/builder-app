@@ -1,35 +1,31 @@
-import { Resource, component$, useResource$, useSignal, $, useStore, useComputed$ } from "@builder.io/qwik";
+import { Resource, component$, useResource$, useSignal, $, useStore, useComputed$, JSXNode, FunctionComponent } from "@builder.io/qwik";
 import armies from './../data/40k10e/armies.json';
 import { Card } from "~/components/army-card";
-import type { ArmyUnit } from "~/components/unit-card";
 import { UnitCard } from "~/components/unit-card";
+import { IArmyUnit } from "~/models/iarmyUnit";
 
 
 
 export default component$(() => {
     const selectedArmy = useSignal<string>("");
-    const armyOptions = useResource$<ArmyUnit[] | undefined>(async ({ track }) => {
+    const armyOptions = useResource$<IArmyUnit[] | undefined>(async ({ track }) => {
         track(() => selectedArmy.value);
 
-        if (selectedArmy.value === "") return undefined;
+        if (selectedArmy.value === "") return [];
         const path = `/data/40k10e/${selectedArmy.value}`;
 
         const res = await fetch(path);
         const data = await res.json();
 
-        return data as ArmyUnit[];
+        return data as IArmyUnit[];
     });
-    const armyUnits = useStore<ArmyUnit[]>([]);
+    const armyUnits = useStore<IArmyUnit[]>([]);
 
-    const addUnit = $((armySelect: ArmyUnit) => armyUnits.push(armySelect));
+    const addUnit = $((armySelect: IArmyUnit) => { armyUnits.push(armySelect) });
     const points = useComputed$(() => {
         if (armyUnits.length === -1) return 0;
         const clone = [...armyUnits];
-        const points = clone.reduce((prev, curr) => {
-            if (!Array.isArray(prev.options) && !Array.isArray(curr.options))
-                return (prev.options.points + curr.options.points);
-            return 0;
-        });
+        const points = clone.reduce((acc, curr) => acc + curr.options[0].points, 0);
         return points;
     });
 
@@ -44,7 +40,12 @@ export default component$(() => {
             </div>
 
             <h1>
-                {points.value}
+                <div>
+                    {armies ? armies?.find(a => a.id === selectedArmy.value)?.name : null}
+                </div>
+                <div>
+                    {points.value}/2000
+                </div>
             </h1>
 
             <article class="grid grid-cols-2 gap-3 h-screen">
@@ -52,7 +53,9 @@ export default component$(() => {
                     <Resource 
                         value={armyOptions} 
                         onPending={() => <p>Loading</p>} 
-                        onResolved={(ao) => ao?.map((units, i) => <UnitCard key={i} armyUnit={units} onClick$={addUnit} />)}
+                        onResolved={(ao) => (
+                            <> { ao?.map((units, i) => <UnitCard key={i} armyUnit={units} onClick$={addUnit}/>) } </>
+                        )}
                         onRejected={() => <p>Nothing to see here; move along.</p>} />
                 </div>
                 <div class="border-solid border-white border-l-2">

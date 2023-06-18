@@ -4,7 +4,8 @@
         "options": [{
             "models": "2 models",
             "points": 70
-        }]
+        }],
+        "isCharacter": true
     },
     { 
         "name": "Arco-flagellants",
@@ -15,6 +16,7 @@
         {
             "models": "10 models",
             "points": 150
-        }]
+        }],
+        "isCharacter": false
     }
 ]
