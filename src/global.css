@@ -1,3 +1,13 @@
+@import './components/layout/main-nav.css';
+
+/**
+ * Tailwind CSS imports
+ * View the full documentation at https://tailwindcss.com
+ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /**
  * WHAT IS THIS FILE?
  *
@@ -14,6 +24,7 @@
   --qwik-dirty-black: #1d2033;
   --qwik-dark-background: #151934;
   --qwik-dark-text: #ffffff;
+  --qwik-light-text: #000000;
 }
 
 html {

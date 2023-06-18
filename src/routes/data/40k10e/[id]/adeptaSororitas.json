@@ -1,0 +1,20 @@
+[
+    { 
+        "name": "Aestred Thurga and Agathae Dolan",
+        "options": [{
+            "models": "2 models",
+            "points": 70
+        }]
+    },
+    { 
+        "name": "Arco-flagellants",
+        "options": [{
+            "models": "3 models",
+            "points": 45
+        },
+        {
+            "models": "10 models",
+            "points": 150
+        }]
+    }
+]
