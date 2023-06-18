@@ -1,31 +1,15 @@
 import type { PropFunction} from "@builder.io/qwik";
 import { component$, $ } from "@builder.io/qwik";
 import { HiPlusSolid } from "@qwikest/icons/heroicons";
+import { IUnitCardProps } from "~/models/iunitCardProps";
+import { IUnitOption } from "~/models/iunitOption";
+import { IUnitOptionProps } from "~/models/iunitOptionProps";
 
-export interface UnitCardProps {
-    armyUnit: ArmyUnit,
-    onClick$?: PropFunction<(armySelect: ArmyUnit) => void>;
-}
 
-export interface UnitOptionProps {
-    unitOptions: UnitOption,
-    onClick$: PropFunction<(unitOption: UnitOption) => void>;
-}
-
-export interface ArmyUnit {
-    name: string,
-    options: UnitOption[] | UnitOption
-}
-
-export interface UnitOption {
-    models: string,
-    points: number
-}
-
-export const UnitCard = component$<UnitCardProps>(({ armyUnit, onClick$ }) => {
+export const UnitCard = component$<IUnitCardProps>(({ armyUnit, onClick$ }) => {
     const name = armyUnit.name;
     const options = Array.isArray(armyUnit.options) ? armyUnit.options : [armyUnit.options];
-    const unitClick = $((option: UnitOption) => onClick$ ? onClick$({ name: name, options: option  }) : undefined)
+    const unitClick = $((option: IUnitOption) => onClick$ ? onClick$({ name: name, options: [option]  }) : undefined)
 
     return (
         <div class="block rounded-lg bg-white p-6 shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700">
@@ -41,7 +25,7 @@ export const UnitCard = component$<UnitCardProps>(({ armyUnit, onClick$ }) => {
     );
 });
 
-export const UnitOption = component$<UnitOptionProps>(({unitOptions, onClick$}) => {
+export const UnitOption = component$<IUnitOptionProps>(({unitOptions, onClick$}) => {
     const cloneUnitOptions = {...unitOptions};
 
     return (
