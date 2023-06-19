@@ -49,7 +49,7 @@ export default component$(() => {
                 </h1>
 
                 <article class="grid grid-cols-2 gap-3 h-screen">
-                    <div>
+                    <div class="overflow-y-auto">
                         <Resource 
                             value={armyOptions} 
                             onPending={() => <p>Loading</p>} 
