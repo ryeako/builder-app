@@ -1,0 +1,228 @@
+[
+  {
+    "name": "Aberrants",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 165
+      },
+      {
+        "models": "10 models",
+        "points": 330
+      }
+    ]
+  },
+  {
+    "name": "Abominant",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Achilles Ridgerunners",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      },
+      {
+        "models": "2 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Acolyte Hybrids",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 75
+      },
+      {
+        "models": "10 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Acolyte Iconward",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      }
+    ]
+  },
+  {
+    "name": "Atalan Jackals",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 80
+      },
+      {
+        "models": "10 models",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Biophagus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      }
+    ]
+  },
+  {
+    "name": "Clamavus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 40
+      }
+    ]
+  },
+  {
+    "name": "Goliath Rockgrinder",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 155
+      }
+    ]
+  },
+  {
+    "name": "Goliath Truck",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 110
+      }
+    ]
+  },
+  {
+    "name": "Hybrid Metamorphs",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 80
+      },
+      {
+        "models": "10 models",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Jackal Alphus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Kelermorph",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Locus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 40
+      }
+    ]
+  },
+  {
+    "name": "Magus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      }
+    ]
+  },
+  {
+    "name": "Neophyte Hybrids",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 80
+      },
+      {
+        "models": "20 models",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Nexos",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      }
+    ]
+  },
+  {
+    "name": "Patriarch",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Primus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Purestrain Genestealers",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 90
+      },
+      {
+        "models": "10 models",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Reductus Saboteur",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Sanctus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      }
+    ]
+  }
+]

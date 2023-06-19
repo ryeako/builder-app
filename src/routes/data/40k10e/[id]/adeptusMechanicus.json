@@ -1,0 +1,323 @@
+[
+  {
+    "name": "Archaeopter Fusilave",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Archaeopter Stratoraptor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 165
+      }
+    ]
+  },
+  {
+    "name": "Archaeopter Transvector",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 155
+      }
+    ]
+  },
+  {
+    "name": "Belisarius Cawl",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 185
+      }
+    ]
+  },
+  {
+    "name": "Corpuscarii Electro-Priests",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 65
+      },
+      {
+        "models": "10 models",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Cybernetica Datasmith",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 35
+      }
+    ]
+  },
+  {
+    "name": "Fulgurite Electro-Priests",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 80
+      },
+      {
+        "models": "10 models",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Ironstrider Ballistarii",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      },
+      {
+        "models": "2 models",
+        "points": 100
+      },
+      {
+        "models": "3 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Kastelan Robots",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 215
+      },
+      {
+        "models": "4 models",
+        "points": 430
+      }
+    ]
+  },
+  {
+    "name": "Kataphron Breachers",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 150
+      },
+      {
+        "models": "6 models",
+        "points": 300
+      }
+    ]
+  },
+  {
+    "name": "Kataphron Destroyers",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 120
+      },
+      {
+        "models": "6 models",
+        "points": 240
+      }
+    ]
+  },
+  {
+    "name": "Onager Dunecrawler",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Pteraxii Skystalkers",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 70
+      },
+      {
+        "models": "10 models",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Pteraxii Sterylizors",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 75
+      },
+      {
+        "models": "10 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Serberys Raiders",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 75
+      },
+      {
+        "models": "6 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Serberys Sulphurhounds",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 65
+      },
+      {
+        "models": "6 models",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Servitors",
+    "options": [
+      {
+        "models": "4 models",
+        "points": 50
+      }
+    ]
+  },
+  {
+    "name": "Sicarian Infiltrators",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 80
+      },
+      {
+        "models": "10 models",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Sicarian Ruststalkers",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 75
+      },
+      {
+        "models": "10 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Skitarii Marshal",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 45
+      }
+    ]
+  },
+  {
+    "name": "Skitarii Rangers",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Skitarii Vanguard",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Skorpius Disintegrator",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 195
+      }
+    ]
+  },
+  {
+    "name": "Skorpius Dunerider",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Sydonian Dragoons",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      },
+      {
+        "models": "2 models",
+        "points": 150
+      },
+      {
+        "models": "3 models",
+        "points": 225
+      }
+    ]
+  },
+  {
+    "name": "Tech-Priest Dominus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Tech-Priest Enginseer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 45
+      }
+    ]
+  },
+  {
+    "name": "Tech-Priest Manipulus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Technoarcheologist",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 45
+      }
+    ]
+  }
+]

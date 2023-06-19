@@ -1,0 +1,590 @@
+[
+  {
+    "name": "Aegis Defence Line",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 145
+      }
+    ]
+  },
+  {
+    "name": "Armoured Sentinels",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      },
+      {
+        "models": "2 models",
+        "points": 140
+      },
+      {
+        "models": "3 models",
+        "points": 210
+      }
+    ]
+  },
+  {
+    "name": "Attilan Rough Riders",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 80
+      },
+      {
+        "models": "10 models",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Baneblade",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 540
+      }
+    ]
+  },
+  {
+    "name": "Banehammer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 490
+      }
+    ]
+  },
+  {
+    "name": "Banesword",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 515
+      }
+    ]
+  },
+  {
+    "name": "Basilisk",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 110
+      }
+    ]
+  },
+  {
+    "name": "Bullgryn Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 90
+      },
+      {
+        "models": "6 models",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Cadian Castellan",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      }
+    ]
+  },
+  {
+    "name": "Cadian Command Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Cadian Shock Troops",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 65
+      },
+      {
+        "models": "20 models",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Catachan Jungle Fighters",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 65
+      },
+      {
+        "models": "20 models",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Chimera",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Commissar",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 35
+      }
+    ]
+  },
+  {
+    "name": "Death Korps of Krieg",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 65
+      },
+      {
+        "models": "20 models",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Deathstrike",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Doomhammer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 455
+      }
+    ]
+  },
+  {
+    "name": "Field Ordnance Battery",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Gaunt’s Ghosts",
+    "options": [
+      {
+        "models": "6 models",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Heavy Weapons Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Hellhammer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 510
+      }
+    ]
+  },
+  {
+    "name": "Hellhound",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Hydra",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Infantry Squad",
+    "options": [
+      {
+        "models": "9-10 models",
+        "points": 65
+      },
+      {
+        "models": "18-20 models",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "‘Iron Hand’ Straken",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Kasrkin",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Leman Russ Battle Tank",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 195
+      }
+    ]
+  },
+  {
+    "name": "Leman Russ Demolisher",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Leman Russ Eradicator",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Leman Russ Executioner",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 195
+      }
+    ]
+  },
+  {
+    "name": "Leman Russ Exterminator",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Leman Russ Punisher",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Leman Russ Vanquisher",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Lord Solar Leontus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Manticore",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Militarum Tempestus Command Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Munitorum Servitors",
+    "options": [
+      {
+        "models": "4 models",
+        "points": 35
+      }
+    ]
+  },
+  {
+    "name": "Nork Deddog",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Ogryn Bodyguard",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 40
+      }
+    ]
+  },
+  {
+    "name": "Ogryn Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 75
+      },
+      {
+        "models": "6 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Platoon Command Squad",
+    "options": [
+      {
+        "models": "4-5 models",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Primaris Psyker",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Ratling Snipers",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Regimental Attachés",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 40
+      }
+    ]
+  },
+  {
+    "name": "Regimental Enginseer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 45
+      }
+    ]
+  },
+  {
+    "name": "Regimental Preacher",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 35
+      }
+    ]
+  },
+  {
+    "name": "Rogal Dorn Battle Tank",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 285
+      }
+    ]
+  },
+  {
+    "name": "Scout Sentinels",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      },
+      {
+        "models": "2 models",
+        "points": 100
+      },
+      {
+        "models": "3 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Sergeant Harker",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Shadowsword",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 440
+      }
+    ]
+  },
+  {
+    "name": "Sly Marbo",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Stormlord",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 460
+      }
+    ]
+  },
+  {
+    "name": "Stormsword",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 520
+      }
+    ]
+  },
+  {
+    "name": "Tank Commander",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 240
+      }
+    ]
+  },
+  {
+    "name": "Taurox",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Taurox Prime",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Tempestus Scions",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 60
+      },
+      {
+        "models": "10 models",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Ursula Creed",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Valkyrie",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Wyvern",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  }
+]

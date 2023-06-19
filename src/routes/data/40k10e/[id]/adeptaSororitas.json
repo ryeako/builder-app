@@ -1,22 +1,334 @@
 [
-    { 
-        "name": "Aestred Thurga and Agathae Dolan",
-        "options": [{
-            "models": "2 models",
-            "points": 70
-        }],
-        "isCharacter": true
-    },
-    { 
-        "name": "Arco-flagellants",
-        "options": [{
-            "models": "3 models",
-            "points": 45
-        },
-        {
-            "models": "10 models",
-            "points": 150
-        }],
-        "isCharacter": false
-    }
+  {
+    "name": "Aestred Thurga and Agathae Dolan",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Arco-flagellants",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 45
+      },
+      {
+        "models": "10 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Battle Sisters Squad",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 110
+      }
+    ]
+  },
+  {
+    "name": "Canoness",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Castigator",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Celestian Sacresants",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 65
+      },
+      {
+        "models": "10 models",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Crusaders",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 20
+      },
+      {
+        "models": "4 models",
+        "points": 40
+      },
+      {
+        "models": "6 models",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Daemonifuge",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Death Cult Assassins",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 35
+      },
+      {
+        "models": "4 models",
+        "points": 70
+      },
+      {
+        "models": "6 models",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Dialogus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 35
+      }
+    ]
+  },
+  {
+    "name": "Dogmata",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      }
+    ]
+  },
+  {
+    "name": "Dominion Squad",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Exorcist",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Hospitaller",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 40
+      }
+    ]
+  },
+  {
+    "name": "Imagifier",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 40
+      }
+    ]
+  },
+  {
+    "name": "Immolator",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Junith Eruita",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Missionary",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 35
+      }
+    ]
+  },
+  {
+    "name": "Mortifiers",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      },
+      {
+        "models": "2 models",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Morvenn Vahl",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Palatine",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Paragon Warsuits",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 240
+      }
+    ]
+  },
+  {
+    "name": "Penitent Engines",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      },
+      {
+        "models": "2 models",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Preacher",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 45
+      }
+    ]
+  },
+  {
+    "name": "Repentia Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 75
+      },
+      {
+        "models": "10 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Retributor Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Saint Celestine",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Seraphim Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 70
+      },
+      {
+        "models": "10 models",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Sisters Novitiate Squad",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Sororitas Rhino",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Triumph of Saint Katherine",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Zephyrim Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 70
+      },
+      {
+        "models": "10 models",
+        "points": 140
+      }
+    ]
+  }
 ]

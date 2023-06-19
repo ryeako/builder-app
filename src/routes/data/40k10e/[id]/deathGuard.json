@@ -1,0 +1,318 @@
+[
+  {
+    "name": "Biologus Putrifier",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Blightlord Terminators",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 175
+      },
+      {
+        "models": "10 models",
+        "points": 350
+      }
+    ]
+  },
+  {
+    "name": "Death Guard Chaos Lord",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Death Guard Chaos Lord in Terminator Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Death Guard Chaos Spawn",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Death Guard Cultists",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 55
+      },
+      {
+        "models": "20 models",
+        "points": 110
+      }
+    ]
+  },
+  {
+    "name": "Death Guard Daemon Prince",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 170
+      }
+    ]
+  },
+  {
+    "name": "Death Guard Daemon Prince with Wings",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 215
+      }
+    ]
+  },
+  {
+    "name": "Death Guard Defiler",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 205
+      }
+    ]
+  },
+  {
+    "name": "Death Guard Helbrute",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 155
+      }
+    ]
+  },
+  {
+    "name": "Death Guard Icon Bearer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Death Guard Land Raider",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 250
+      }
+    ]
+  },
+  {
+    "name": "Death Guard Predator Annihilator",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Death Guard Predator Destructor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Death Guard Rhino",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Death Guard Sorcerer in Terminator Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Deathshroud Terminators",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 140
+      },
+      {
+        "models": "6 models",
+        "points": 280
+      }
+    ]
+  },
+  {
+    "name": "Foetid Bloat-drone",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Foul Blightspawn",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Lord of Contagion",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Lord of Virulence",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Malignant Plaguecaster",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Miasmic Malignifier",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Mortarion",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 370
+      }
+    ]
+  },
+  {
+    "name": "Myphitic Blight-haulers",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      },
+      {
+        "models": "2 models",
+        "points": 230
+      },
+      {
+        "models": "3 models",
+        "points": 345
+      }
+    ]
+  },
+  {
+    "name": "Noxious Blightbringer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Plague Marines",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 100
+      },
+      {
+        "models": "10 models",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Plague Surgeon",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Plagueburst Crawler",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 175
+      }
+    ]
+  },
+  {
+    "name": "Poxwalkers",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 60
+      },
+      {
+        "models": "20 models",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Tallyman",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Typhus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  }
+]

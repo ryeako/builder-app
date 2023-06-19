@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Armiger Helverin",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 145
+      }
+    ]
+  },
+  {
+    "name": "Armiger Warglaive",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Canis Rex",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 405
+      }
+    ]
+  },
+  {
+    "name": "Knight Castellan",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 495
+      }
+    ]
+  },
+  {
+    "name": "Knight Crusader",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 415
+      }
+    ]
+  },
+  {
+    "name": "Knight Errant",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 375
+      }
+    ]
+  },
+  {
+    "name": "Knight Gallant",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 400
+      }
+    ]
+  },
+  {
+    "name": "Knight Paladin",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 390
+      }
+    ]
+  },
+  {
+    "name": "Knight Preceptor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 375
+      }
+    ]
+  },
+  {
+    "name": "Knight Valiant",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 490
+      }
+    ]
+  },
+  {
+    "name": "Knight Warden",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 420
+      }
+    ]
+  }
+]

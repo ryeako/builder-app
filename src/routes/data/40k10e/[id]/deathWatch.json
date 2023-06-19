@@ -1,0 +1,129 @@
+[
+  {
+    "name": "Corvus Blackstar",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Deathwatch Terminator Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 210
+      },
+      {
+        "models": "10 models",
+        "points": 420
+      }
+    ]
+  },
+  {
+    "name": "Deathwatch Veterans",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 100
+      },
+      {
+        "models": "10 models",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Fortis Kill Team",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 115
+      },
+      {
+        "models": "10 models",
+        "points": 230
+      }
+    ]
+  },
+  {
+    "name": "Indomitor Kill Team",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 135
+      },
+      {
+        "models": "10 models",
+        "points": 270
+      }
+    ]
+  },
+  {
+    "name": "Kill Team Cassius",
+    "options": [
+      {
+        "models": "11 models",
+        "points": 255
+      }
+    ]
+  },
+  {
+    "name": "Proteus Kill Team",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 165
+      },
+      {
+        "models": "10 models",
+        "points": 330
+      }
+    ]
+  },
+  {
+    "name": "Spectrus Kill Team",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 110
+      },
+      {
+        "models": "10 models",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Veteran Bike Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 85
+      },
+      {
+        "models": "6 models",
+        "points": 170
+      }
+    ]
+  },
+  {
+    "name": "Watch Captain Artemis",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Watch Master",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  }
+]

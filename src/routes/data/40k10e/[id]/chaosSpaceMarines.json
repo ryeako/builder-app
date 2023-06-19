@@ -1,0 +1,487 @@
+[
+  {
+    "name": "Abaddon the Despoiler",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 280
+      }
+    ]
+  },
+  {
+    "name": "Accursed Cultists",
+    "options": [
+      {
+        "models": "8 models",
+        "points": 95
+      },
+      {
+        "models": "16 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Chaos Bikers",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 95
+      },
+      {
+        "models": "6 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Chaos Land Raider",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 255
+      }
+    ]
+  },
+  {
+    "name": "Chaos Lord",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Chaos Lord in Terminator Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Chaos Predator Annihilator",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Chaos Predator Destructor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Chaos Rhino",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Chaos Spawn",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Chaos Terminator Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 195
+      },
+      {
+        "models": "10 models",
+        "points": 390
+      }
+    ]
+  },
+  {
+    "name": "Chaos Vindicator",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 210
+      }
+    ]
+  },
+  {
+    "name": "Chosen",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 115
+      },
+      {
+        "models": "10 models",
+        "points": 230
+      }
+    ]
+  },
+  {
+    "name": "Cultist Mob",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 55
+      },
+      {
+        "models": "20 models",
+        "points": 110
+      }
+    ]
+  },
+  {
+    "name": "Cypher",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Dark Apostle",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Dark Commune",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Defiler",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 210
+      }
+    ]
+  },
+  {
+    "name": "Exalted Champion",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Fabius Bile",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Fellgor Beastmen",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Forgefiend",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 165
+      }
+    ]
+  },
+  {
+    "name": "Haarken Worldclaimer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Havocs",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Helbrute",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 155
+      }
+    ]
+  },
+  {
+    "name": "Heldrake",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 205
+      }
+    ]
+  },
+  {
+    "name": "Heretic Astartes Daemon Prince",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Heretic Astartes Daemon Prince with Wings",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 195
+      }
+    ]
+  },
+  {
+    "name": "Huron Blackheart",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Khorne Lord of Skulls",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 420
+      }
+    ]
+  },
+  {
+    "name": "Legionaries",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 100
+      },
+      {
+        "models": "10 models",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Lord Discordant on Helstalker",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Lucius the Eternal",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Master of Executions",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Master of Possession",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Maulerfiend",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 155
+      }
+    ]
+  },
+  {
+    "name": "Noctilith Crown",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Noise Marines",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 85
+      },
+      {
+        "models": "10 models",
+        "points": 170
+      }
+    ]
+  },
+  {
+    "name": "Obliterators",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 160
+      },
+      {
+        "models": "4 models",
+        "points": 320
+      }
+    ]
+  },
+  {
+    "name": "Possessed",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 145
+      },
+      {
+        "models": "10 models",
+        "points": 290
+      }
+    ]
+  },
+  {
+    "name": "Raptors",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 95
+      },
+      {
+        "models": "10 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Sorcerer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Sorcerer in Terminator Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Traitor Enforcer",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Traitor Guardsmen Squad",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Vashtorr the Arkifane",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 225
+      }
+    ]
+  },
+  {
+    "name": "Venomcrawler",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Warp Talons",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 130
+      },
+      {
+        "models": "10 models",
+        "points": 260
+      }
+    ]
+  },
+  {
+    "name": "Warpsmith",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  }
+]

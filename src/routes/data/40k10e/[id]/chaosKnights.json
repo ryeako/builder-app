@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Knight Abominant",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 395
+      }
+    ]
+  },
+  {
+    "name": "Knight Desecrator",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 390
+      }
+    ]
+  },
+  {
+    "name": "Knight Despoiler",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 410
+      }
+    ]
+  },
+  {
+    "name": "Knight Rampager",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 395
+      }
+    ]
+  },
+  {
+    "name": "Knight Tyrant",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 485
+      }
+    ]
+  },
+  {
+    "name": "War Dog Brigand",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "War Dog Executioner",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "War Dog Huntsman",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "War Dog Karnivore",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "War Dog Stalker",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 135
+      }
+    ]
+  }
+]

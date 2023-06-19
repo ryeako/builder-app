@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Archon",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Beastmaster",
+    "options": [
+      {
+        "models": "7 models",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Court of the Archon",
+    "options": [
+      {
+        "models": "4 models",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Cronos",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      },
+      {
+        "models": "2 models",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Drazhar",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Grotesques",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 105
+      },
+      {
+        "models": "6 models",
+        "points": 210
+      }
+    ]
+  },
+  {
+    "name": "Haemonculus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Hellions",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 110
+      },
+      {
+        "models": "10 models",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Incubi",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 85
+      },
+      {
+        "models": "10 models",
+        "points": 170
+      }
+    ]
+  },
+  {
+    "name": "Kabalite Warriors",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Lelith Hesperax",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Mandrakes",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 70
+      },
+      {
+        "models": "10 models",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Raider",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Ravager",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Razorwing Jetfighter",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 170
+      }
+    ]
+  },
+  {
+    "name": "Reavers",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 75
+      },
+      {
+        "models": "6 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Scourges",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 120
+      },
+      {
+        "models": "10 models",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Succubus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Talos",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      },
+      {
+        "models": "2 models",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Urien Rakarth",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Venom",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Voidraven Bomber",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 195
+      }
+    ]
+  },
+  {
+    "name": "Wracks",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 65
+      },
+      {
+        "models": "10 models",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Wyches",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 110
+      }
+    ]
+  }
+]

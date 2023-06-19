@@ -1,0 +1,278 @@
+[
+  {
+    "name": "Brother-Captain",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Brother-Captain Stern",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 110
+      }
+    ]
+  },
+  {
+    "name": "Brotherhood Champion",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Brotherhood Chaplain",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Brotherhood Librarian",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 110
+      }
+    ]
+  },
+  {
+    "name": "Brotherhood Techmarine",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Brotherhood Terminator Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 225
+      },
+      {
+        "models": "10 models",
+        "points": 450
+      }
+    ]
+  },
+  {
+    "name": "Castellan Crowe",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Grand Master",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Grand Master in Nemesis Dreadknight",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 245
+      }
+    ]
+  },
+  {
+    "name": "Grand Master Voldus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Grey Knights Land Raider",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 270
+      }
+    ]
+  },
+  {
+    "name": "Grey Knights Land Raider Crusader",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 250
+      }
+    ]
+  },
+  {
+    "name": "Grey Knights Land Raider Redeemer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 290
+      }
+    ]
+  },
+  {
+    "name": "Grey Knights Razorback",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Grey Knights Rhino",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Grey Knights Stormhawk Interceptor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Grey Knights Stormraven Gunship",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 265
+      }
+    ]
+  },
+  {
+    "name": "Grey Knights Stormtalon Gunship",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 170
+      }
+    ]
+  },
+  {
+    "name": "Grey Knights Venerable Dreadnought",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 155
+      }
+    ]
+  },
+  {
+    "name": "Interceptor Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 160
+      },
+      {
+        "models": "10 models",
+        "points": 320
+      }
+    ]
+  },
+  {
+    "name": "Kaldor Draigo",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 155
+      }
+    ]
+  },
+  {
+    "name": "Nemesis Dreadknight",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 215
+      }
+    ]
+  },
+  {
+    "name": "Paladin Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 255
+      },
+      {
+        "models": "10 models",
+        "points": 510
+      }
+    ]
+  },
+  {
+    "name": "Purgation Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 165
+      },
+      {
+        "models": "10 models",
+        "points": 275
+      }
+    ]
+  },
+  {
+    "name": "Purifier Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 150
+      },
+      {
+        "models": "10 models",
+        "points": 300
+      }
+    ]
+  },
+  {
+    "name": "Servitors",
+    "options": [
+      {
+        "models": "4 models",
+        "points": 50
+      }
+    ]
+  },
+  {
+    "name": "Strike Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 135
+      },
+      {
+        "models": "10 models",
+        "points": 270
+      }
+    ]
+  }
+]

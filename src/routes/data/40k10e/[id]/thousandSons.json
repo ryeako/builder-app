@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Ahriman",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 110
+      }
+    ]
+  },
+  {
+    "name": "Ahriman on Disc of Tzeentch",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Exalted Sorcerer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Exalted Sorcerer on Disc of Tzeentch",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Infernal Master",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Magnus the Red",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 410
+      }
+    ]
+  },
+  {
+    "name": "Mutalith Vortex Beast",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 145
+      }
+    ]
+  },
+  {
+    "name": "Rubric Marines",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 95
+      },
+      {
+        "models": "10 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Scarab Occult Terminators",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 205
+      },
+      {
+        "models": "10 models",
+        "points": 410
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Chaos Spawn",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Cultists",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 65
+      },
+      {
+        "models": "20 models",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Daemon Prince",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 210
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Daemon Prince with Wings",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Defiler",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Forgefiend",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Helbrute",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 145
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Heldrake",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 195
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Land Raider",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 250
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Maulerfiend",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Predator Annihilator",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Predator Destructor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Rhino",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Sorcerer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Sorcerer in Terminator Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Thousand Sons Vindicator",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Tzaangor Enlightened",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 45
+      },
+      {
+        "models": "6 models",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Tzaangor Shaman",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Tzaangors",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 65
+      },
+      {
+        "models": "20 models",
+        "points": 130
+      }
+    ]
+  }
+]

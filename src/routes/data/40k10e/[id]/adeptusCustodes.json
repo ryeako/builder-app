@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Aleya",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Allarus Custodians",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 130
+      },
+      {
+        "models": "3 models",
+        "points": 195
+      },
+      {
+        "models": "5 models",
+        "points": 325
+      },
+      {
+        "models": "6 models",
+        "points": 390
+      }
+    ]
+  },
+  {
+    "name": "Anathema Psykana Rhino",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Blade Champion",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Custodian Guard",
+    "options": [
+      {
+        "models": "4 models",
+        "points": 180
+      },
+      {
+        "models": "5 models",
+        "points": 225
+      },
+      {
+        "models": "9 models",
+        "points": 405
+      },
+      {
+        "models": "10 models",
+        "points": 450
+      }
+    ]
+  },
+  {
+    "name": "Custodian Wardens",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 150
+      },
+      {
+        "models": "6 models",
+        "points": 300
+      }
+    ]
+  },
+  {
+    "name": "Knight-Centura",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Prosecutors",
+    "options": [
+      {
+        "models": "4 models",
+        "points": 40
+      },
+      {
+        "models": "5 models",
+        "points": 50
+      },
+      {
+        "models": "9 models",
+        "points": 90
+      },
+      {
+        "models": "10 models",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Shield-Captain",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Shield-Captain in Allarus Terminator Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Shield-Captain on Dawneagle Jetbike",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 145
+      }
+    ]
+  },
+  {
+    "name": "Trajann Valoris",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 145
+      }
+    ]
+  },
+  {
+    "name": "Valerian",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Venerable Contemptor Dreadnought",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 185
+      }
+    ]
+  },
+  {
+    "name": "Venerable Land Raider",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 260
+      }
+    ]
+  },
+  {
+    "name": "Vertus Praetors",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 180
+      },
+      {
+        "models": "3 models",
+        "points": 270
+      },
+      {
+        "models": "5 models",
+        "points": 450
+      },
+      {
+        "models": "6 models",
+        "points": 540
+      }
+    ]
+  },
+  {
+    "name": "Vigilators",
+    "options": [
+      {
+        "models": "4 models",
+        "points": 60
+      },
+      {
+        "models": "5 models",
+        "points": 75
+      },
+      {
+        "models": "9 models",
+        "points": 135
+      },
+      {
+        "models": "10 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Witchseekers",
+    "options": [
+      {
+        "models": "4 models",
+        "points": 60
+      },
+      {
+        "models": "5 models",
+        "points": 75
+      },
+      {
+        "models": "9 models",
+        "points": 135
+      },
+      {
+        "models": "10 models",
+        "points": 150
+      }
+    ]
+  }
+]

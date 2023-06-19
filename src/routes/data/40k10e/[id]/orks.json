@@ -1,0 +1,591 @@
+[
+  {
+    "name": "Battlewagon",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 185
+      }
+    ]
+  },
+  {
+    "name": "Beast Snagga Boyz",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 105
+      },
+      {
+        "models": "20 models",
+        "points": 210
+      }
+    ]
+  },
+  {
+    "name": "Beastboss",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Beastboss on Squigosaur",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 165
+      }
+    ]
+  },
+  {
+    "name": "Big Mek in Mega Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Big Mek with Kustom Force Field",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Big Mek with Shokk Attack Gun",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Big’ed Bossbunka",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Blitza-bommer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Boomdakka Snazzwagon",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Boss Snikrot",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Boss Zagstruk",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Boyz",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 85
+      },
+      {
+        "models": "20 models",
+        "points": 170
+      }
+    ]
+  },
+  {
+    "name": "Burna Boyz",
+    "options": [
+      {
+        "models": "1 Spanner and 4 Burna Boyz",
+        "points": 65
+      },
+      {
+        "models": "2 Spanners and 8 Burna Boyz",
+        "points": 130
+      },
+      {
+        "models": "3 Spanners and 12 Burna Boyz",
+        "points": 195
+      }
+    ]
+  },
+  {
+    "name": "Burna-bommer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Dakkajet",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Deff Dread",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Deffkilla Wartrike",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Deffkoptas",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 115
+      },
+      {
+        "models": "6 models",
+        "points": 230
+      }
+    ]
+  },
+  {
+    "name": "Flash Gitz",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 95
+      },
+      {
+        "models": "10 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Ghazghkull Thraka",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 235
+      }
+    ]
+  },
+  {
+    "name": "Gorkanaut",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 295
+      }
+    ]
+  },
+  {
+    "name": "Gretchin",
+    "options": [
+      {
+        "models": "11 models",
+        "points": 45
+      },
+      {
+        "models": "22 models",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Hunta Rig",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Kaptin Badrukk",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Kill Rig",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Killa Kans",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 150
+      },
+      {
+        "models": "6 models",
+        "points": 300
+      }
+    ]
+  },
+  {
+    "name": "Kommandos",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Kustom Boosta-blasta",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Lootas",
+    "options": [
+      {
+        "models": "1 Spanner and 4 Lootas",
+        "points": 55
+      },
+      {
+        "models": "2 Spanners and 8 Lootas",
+        "points": 110
+      },
+      {
+        "models": "3 Spanners and 12 Lootas",
+        "points": 165
+      }
+    ]
+  },
+  {
+    "name": "Mad Dok Grotsnik",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Meganobz",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 65
+      },
+      {
+        "models": "3 models",
+        "points": 100
+      },
+      {
+        "models": "5 models",
+        "points": 165
+      },
+      {
+        "models": "6 models",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Megatrakk Scrapjet",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Mek",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 45
+      }
+    ]
+  },
+  {
+    "name": "Mek Gunz",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 45
+      },
+      {
+        "models": "2 models",
+        "points": 90
+      },
+      {
+        "models": "3 models",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Mekboy Workshop",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Morkanaut",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 305
+      }
+    ]
+  },
+  {
+    "name": "Mozrog Skragbad",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 195
+      }
+    ]
+  },
+  {
+    "name": "Nob on Smasha Squig",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Nob with Waaagh! Banner",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Nobz",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 115
+      },
+      {
+        "models": "10 models",
+        "points": 230
+      }
+    ]
+  },
+  {
+    "name": "Painboss",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Painboy",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Rukkatrukk Squigbuggy",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 110
+      }
+    ]
+  },
+  {
+    "name": "Shokkjump Dragsta",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Squighog Boyz",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 110
+      },
+      {
+        "models": "6 models",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Stompa",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 800
+      }
+    ]
+  },
+  {
+    "name": "Stormboyz",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 65
+      },
+      {
+        "models": "10 models",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Tankbustas",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Trukk",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      }
+    ]
+  },
+  {
+    "name": "Warbikers",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 75
+      },
+      {
+        "models": "6 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Warboss",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Warboss in Mega Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Wazbom Blastajet",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 175
+      }
+    ]
+  },
+  {
+    "name": "Weirdboy",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Wurrboy",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Zodgrod Wortsnagga",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  }
+]

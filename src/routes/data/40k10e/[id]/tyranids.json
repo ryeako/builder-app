@@ -1,0 +1,486 @@
+[
+  {
+    "name": "Barbgaunts",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 50
+      },
+      {
+        "models": "10 models",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Biovores",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 40
+      },
+      {
+        "models": "2 models",
+        "points": 80
+      },
+      {
+        "models": "3 models",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Broodlord",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Carnifexes",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      },
+      {
+        "models": "2 models",
+        "points": 250
+      }
+    ]
+  },
+  {
+    "name": "Deathleaper",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Exocrine",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Gargoyles",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 75
+      },
+      {
+        "models": "20 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Genestealers",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 90
+      },
+      {
+        "models": "10 models",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Harpy",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 170
+      }
+    ]
+  },
+  {
+    "name": "Haruspex",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Hive Crone",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Hive Guard",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 100
+      },
+      {
+        "models": "6 models",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Hive Tyrant",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Hormagaunts",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 70
+      },
+      {
+        "models": "20 models",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Lictor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Maleceptor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 165
+      }
+    ]
+  },
+  {
+    "name": "Mawloc",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 145
+      }
+    ]
+  },
+  {
+    "name": "Mucolid Spores",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 45
+      },
+      {
+        "models": "2 models",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Neurogaunts",
+    "options": [
+      {
+        "models": "11 models",
+        "points": 45
+      },
+      {
+        "models": "22 models",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Neurotyrant",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Old One Eye",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Parasite of Mortrex",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Psychophage",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Pyrovores",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 30
+      },
+      {
+        "models": "2 models",
+        "points": 60
+      },
+      {
+        "models": "3 models",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Raveners",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 75
+      },
+      {
+        "models": "6 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Ripper Swarms",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 35
+      },
+      {
+        "models": "6 models",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Screamer-Killer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Spore MInes",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 50
+      },
+      {
+        "models": "6 models",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Sporocyst",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 145
+      }
+    ]
+  },
+  {
+    "name": "Termagants",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 60
+      },
+      {
+        "models": "20 models",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Tervigon",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "The Swarmlord",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 250
+      }
+    ]
+  },
+  {
+    "name": "Toxicrene",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Trygon",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Tyranid Warriors with Melee Bio-weapons",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 90
+      },
+      {
+        "models": "6 models",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Tyranid Warriors with Ranged Bio-weapons",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 70
+      },
+      {
+        "models": "6 models",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Tyrannocyte",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Tyrannofex",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Tyrant Guard",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 95
+      },
+      {
+        "models": "6 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Venomthropes",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 70
+      },
+      {
+        "models": "6 models",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Von Ryan’s Leapers",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 75
+      },
+      {
+        "models": "6 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Winged Hive Tyrant",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 195
+      }
+    ]
+  },
+  {
+    "name": "Winged Tyranid Prime",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Zoanthropes",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 90
+      },
+      {
+        "models": "6 models",
+        "points": 180
+      }
+    ]
+  }
+]

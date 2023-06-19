@@ -1,0 +1,545 @@
+[
+  {
+    "name": "Beasts of Nurgle",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      },
+      {
+        "models": "2 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Be’lakor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 325
+      }
+    ]
+  },
+  {
+    "name": "Bloodcrushers",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 120
+      },
+      {
+        "models": "6 models",
+        "points": 240
+      }
+    ]
+  },
+  {
+    "name": "Bloodletters",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Bloodmaster",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Bloodthirster",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 300
+      }
+    ]
+  },
+  {
+    "name": "Blue Horrors",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Burning Chariot",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Changecaster",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Contorted Epitome",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Daemon Prince of Chaos",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 215
+      }
+    ]
+  },
+  {
+    "name": "Daemon Prince of Chaos with Wings",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 195
+      }
+    ]
+  },
+  {
+    "name": "Daemonettes",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Epidemius",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Exalted Flamer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Exalted Seeker Chariot",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Fateskimmer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Feculent Gnarlmaw",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Fiends",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 150
+      },
+      {
+        "models": "6 models",
+        "points": 300
+      }
+    ]
+  },
+  {
+    "name": "Flamers",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 65
+      },
+      {
+        "models": "6 models",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Flesh Hounds",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 70
+      },
+      {
+        "models": "10 models",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Fluxmaster",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Great Unclean One",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 280
+      }
+    ]
+  },
+  {
+    "name": "Hellflayer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 110
+      },
+      {
+        "models": "2 models",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Horticulous Slimux",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Infernal Enrapturess",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Kairos Fateweaver",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 285
+      }
+    ]
+  },
+  {
+    "name": "Karanak",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Keeper of Secrets",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 330
+      }
+    ]
+  },
+  {
+    "name": "Lord of Change",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 230
+      }
+    ]
+  },
+  {
+    "name": "Nurglings",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 40
+      },
+      {
+        "models": "6 models",
+        "points": 80
+      },
+      {
+        "models": "9 models",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Pink Horrors",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Plague Drones",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 120
+      },
+      {
+        "models": "6 models",
+        "points": 240
+      }
+    ]
+  },
+  {
+    "name": "Plaguebearers",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 145
+      }
+    ]
+  },
+  {
+    "name": "Poxbringer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Rendmaster on Blood Throne",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Rotigus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 285
+      }
+    ]
+  },
+  {
+    "name": "Screamers",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 90
+      },
+      {
+        "models": "6 models",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Seeker Chariot",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      },
+      {
+        "models": "2 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Seekers",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 95
+      },
+      {
+        "models": "10 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Shalaxi Helbane",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 400
+      }
+    ]
+  },
+  {
+    "name": "Skarbrand",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 365
+      }
+    ]
+  },
+  {
+    "name": "Skull Altar",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Skull Cannon",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Skullmaster",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Skulltaker",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Sloppity Bilepiper",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Soul Grinder",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 215
+      }
+    ]
+  },
+  {
+    "name": "Spoilpox Scrivener",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Syll’esske",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "The Blue Scribes",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "The Changeling",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "The Masque of Slaanesh",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Tormentbringer on Exalted Seeker Chariot",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Tranceweaver",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  }
+]

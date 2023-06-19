@@ -1,0 +1,365 @@
+[
+  {
+    "name": "Arjac Rockfist",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Bjorn the Fell-Handed",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Blood Claws",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 140
+      },
+      {
+        "models": "15 models",
+        "points": 210
+      }
+    ]
+  },
+  {
+    "name": "Canis Wolfborn",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Cyberwolf",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 20
+      }
+    ]
+  },
+  {
+    "name": "Fenrisian Wolves",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 30
+      },
+      {
+        "models": "10 models",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Grey Hunters",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 90
+      },
+      {
+        "models": "10 models",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Harald Deathwolf",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Hounds of Morkai",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 95
+      },
+      {
+        "models": "10 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Iron Priest",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Krom Dragongaze",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Logan Grimnar",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 145
+      }
+    ]
+  },
+  {
+    "name": "Logan Grimnar on Stormrider",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 235
+      }
+    ]
+  },
+  {
+    "name": "Long Fangs",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 150
+      },
+      {
+        "models": "6 models",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Lukas the Trickster",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Murderfang",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Njal Stormcaller",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Ragnar Blackmane",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Skyclaws",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 95
+      },
+      {
+        "models": "10 models",
+        "points": 190
+      },
+      {
+        "models": "15 models",
+        "points": 285
+      }
+    ]
+  },
+  {
+    "name": "Space Wolves Venerable Dreadnought",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 170
+      }
+    ]
+  },
+  {
+    "name": "Stormfang Gunship",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 300
+      }
+    ]
+  },
+  {
+    "name": "Stormwolf",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 250
+      }
+    ]
+  },
+  {
+    "name": "Thunderwolf Cavalry",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 100
+      },
+      {
+        "models": "6 models",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Ulrik the Slayer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Wolf Guard",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 95
+      },
+      {
+        "models": "10 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Wolf Guard Battle Leader in Terminator Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Wolf Guard Battle Leader on Thunderwolf",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Wolf Guard Pack Leader",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 30
+      }
+    ]
+  },
+  {
+    "name": "Wolf Guard Pack Leader in Terminator Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 45
+      }
+    ]
+  },
+  {
+    "name": "Wolf Guard Pack Leader with Jump Pack",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 40
+      }
+    ]
+  },
+  {
+    "name": "Wolf Guard Terminators",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 200
+      },
+      {
+        "models": "10 models",
+        "points": 400
+      }
+    ]
+  },
+  {
+    "name": "Wolf Lord on Thunderwolf",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Wolf Scouts",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 80
+      },
+      {
+        "models": "10 models",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Wulfen",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 100
+      },
+      {
+        "models": "10 models",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Wulfen Dreadnought",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 155
+      }
+    ]
+  }
+]

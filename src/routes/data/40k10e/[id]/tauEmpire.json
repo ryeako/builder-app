@@ -1,0 +1,391 @@
+[
+  {
+    "name": "Aun’Shi",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Aun’Va",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Breacher Team",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Broadside Battlesuits",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 110
+      },
+      {
+        "models": "2 models",
+        "points": 220
+      },
+      {
+        "models": "3 models",
+        "points": 330
+      }
+    ]
+  },
+  {
+    "name": "Cadre Fireblade",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      }
+    ]
+  },
+  {
+    "name": "Commander Farsight",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Commander in Coldstar Battlesuit",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Commander in Crisis Battlesuit",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 110
+      }
+    ]
+  },
+  {
+    "name": "Commander in Enforcer Battlesuit",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Commander Shadowsun",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Crisis Battlesuits",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 195
+      },
+      {
+        "models": "6 models",
+        "points": 390
+      }
+    ]
+  },
+  {
+    "name": "Darkstrider",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Devilfish",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Ethereal",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      }
+    ]
+  },
+  {
+    "name": "Firesight Team",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Ghostkeel Battlesuit",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 170
+      }
+    ]
+  },
+  {
+    "name": "Hammerhead Gunship",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 145
+      }
+    ]
+  },
+  {
+    "name": "Kroot Carnivores",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 75
+      },
+      {
+        "models": "20 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Kroot Farstalkers",
+    "options": [
+      {
+        "models": "12 models",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Kroot Hounds",
+    "options": [
+      {
+        "models": "4 models",
+        "points": 30
+      },
+      {
+        "models": "8 models",
+        "points": 60
+      },
+      {
+        "models": "12 models",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Kroot Shaper",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      }
+    ]
+  },
+  {
+    "name": "Krootox Riders",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 35
+      },
+      {
+        "models": "2 models",
+        "points": 70
+      },
+      {
+        "models": "3 models",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Longstrike",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 170
+      }
+    ]
+  },
+  {
+    "name": "Pathfinder Team",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Piranhas",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      },
+      {
+        "models": "2 models",
+        "points": 110
+      },
+      {
+        "models": "3 models",
+        "points": 165
+      }
+    ]
+  },
+  {
+    "name": "Razorshark Strike Fighter",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 165
+      }
+    ]
+  },
+  {
+    "name": "Riptide Battlesuit",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 235
+      }
+    ]
+  },
+  {
+    "name": "Sky Ray Gunship",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Stealth Battlesuits",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 75
+      },
+      {
+        "models": "6 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Stormsurge",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 405
+      }
+    ]
+  },
+  {
+    "name": "Strike Team",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Sun Shark Bomber",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Tactical Drones",
+    "options": [
+      {
+        "models": "4 models",
+        "points": 70
+      },
+      {
+        "models": "8 models",
+        "points": 140
+      },
+      {
+        "models": "12 models",
+        "points": 210
+      }
+    ]
+  },
+  {
+    "name": "Tidewall Droneport",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Tidewall Gunrig",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Tidewall Shieldline",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Tidewall Defence Platform ..........................+20 pts",
+    "options": []
+  },
+  {
+    "name": "Vespid Stingwings",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 75
+      }
+    ]
+  }
+]

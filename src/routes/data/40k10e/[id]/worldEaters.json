@@ -1,0 +1,229 @@
+[
+  {
+    "name": "Angron",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 415
+      }
+    ]
+  },
+  {
+    "name": "Eightbound",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 155
+      },
+      {
+        "models": "6 models",
+        "points": 310
+      }
+    ]
+  },
+  {
+    "name": "Exalted Eightbound",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 180
+      },
+      {
+        "models": "6 models",
+        "points": 360
+      }
+    ]
+  },
+  {
+    "name": "Jakhals",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 75
+      },
+      {
+        "models": "20 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Khorne Berzerkers",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 115
+      },
+      {
+        "models": "10 models",
+        "points": 230
+      }
+    ]
+  },
+  {
+    "name": "Khorne Lord of Skulls",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 420
+      }
+    ]
+  },
+  {
+    "name": "Khârn the Betrayer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Lord Invocatus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 155
+      }
+    ]
+  },
+  {
+    "name": "World Eaters Chaos Spawn",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "World Eaters Daemon Prince",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "World Eaters Daemon Prince with Wings",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 215
+      }
+    ]
+  },
+  {
+    "name": "World Eaters Defiler",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 210
+      }
+    ]
+  },
+  {
+    "name": "World Eaters Forgefiend",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "World Eaters Helbrute",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "World Eaters Heldrake",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 215
+      }
+    ]
+  },
+  {
+    "name": "World Eaters Land Raider",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 255
+      }
+    ]
+  },
+  {
+    "name": "World Eaters Lord on Juggernaut",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "World Eaters Master of Executions",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "World Eaters Maulerfiend",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 175
+      }
+    ]
+  },
+  {
+    "name": "World Eaters Predator Annihilator",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "World Eaters Predator Destructor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "World Eaters Rhino",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "World Eaters Terminator Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 195
+      },
+      {
+        "models": "10 models",
+        "points": 390
+      }
+    ]
+  }
+]

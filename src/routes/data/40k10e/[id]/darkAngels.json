@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Asmodai",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Azrael",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Belial",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Deathwing Command Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 215
+      },
+      {
+        "models": "10 models",
+        "points": 430
+      }
+    ]
+  },
+  {
+    "name": "Deathwing Knights",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 235
+      },
+      {
+        "models": "10 models",
+        "points": 470
+      }
+    ]
+  },
+  {
+    "name": "Deathwing Strikemaster",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Deathwing Terminator Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 205
+      },
+      {
+        "models": "10 models",
+        "points": 410
+      }
+    ]
+  },
+  {
+    "name": "Ezekiel",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Lazarus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Lion El’Jonson",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 380
+      }
+    ]
+  },
+  {
+    "name": "Nephilim Jetfighter",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 195
+      }
+    ]
+  },
+  {
+    "name": "Ravenwing Black Knights",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 115
+      },
+      {
+        "models": "6 models",
+        "points": 230
+      }
+    ]
+  },
+  {
+    "name": "Ravenwing Command Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 145
+      },
+      {
+        "models": "6 models",
+        "points": 290
+      }
+    ]
+  },
+  {
+    "name": "Ravenwing Dark Talon",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 210
+      }
+    ]
+  },
+  {
+    "name": "Ravenwing Darkshroud",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Ravenwing Land Speeder Vengeance",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Ravenwing Talonmaster",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Sammael",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 145
+      }
+    ]
+  }
+]

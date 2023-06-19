@@ -1,0 +1,630 @@
+[
+  {
+    "name": "Asurmen",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Autarch",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Autarch Skyrunner",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Autarch Wayleaper",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Avatar of Khaine",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 295
+      }
+    ]
+  },
+  {
+    "name": "Baharroth",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Corsair Voidreavers",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 70
+      },
+      {
+        "models": "10 models",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Corsair Voidscarred",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 90
+      },
+      {
+        "models": "10 models",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Crimson Hunter",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Dark Reapers",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 75
+      },
+      {
+        "models": "10 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Death Jester",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Dire Avengers",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 70
+      },
+      {
+        "models": "10 models",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Eldrad Ulthran",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Falcon",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Farseer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Farseer Skyrunner",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Fire Dragons",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 85
+      },
+      {
+        "models": "10 models",
+        "points": 170
+      }
+    ]
+  },
+  {
+    "name": "Fire Prism",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Fuegan",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Guardian Defenders",
+    "options": [
+      {
+        "models": "11 models",
+        "points": 110
+      }
+    ]
+  },
+  {
+    "name": "Hemlock Wraithfighter",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 155
+      }
+    ]
+  },
+  {
+    "name": "Howling Banshees",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 85
+      },
+      {
+        "models": "10 models",
+        "points": 170
+      }
+    ]
+  },
+  {
+    "name": "Illic Nightspear",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Jain Zar",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Karandras",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Maugan Ra",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Night Spinner",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Prince Yriel",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Rangers",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 55
+      },
+      {
+        "models": "10 models",
+        "points": 110
+      }
+    ]
+  },
+  {
+    "name": "Shadowseer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Shining Spears",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 120
+      },
+      {
+        "models": "6 models",
+        "points": 240
+      }
+    ]
+  },
+  {
+    "name": "Shroud Runners",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 80
+      },
+      {
+        "models": "6 models",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Skyweavers",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 95
+      },
+      {
+        "models": "4 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Solitaire",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Spiritseer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Starweaver",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Storm Guardians",
+    "options": [
+      {
+        "models": "11 models",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Striking Scorpions",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 75
+      },
+      {
+        "models": "10 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Support Weapons",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Swooping Hawks",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 75
+      },
+      {
+        "models": "10 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "The Visarch",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "The Yncarne",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 270
+      }
+    ]
+  },
+  {
+    "name": "Troupe",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 75
+      },
+      {
+        "models": "6 models",
+        "points": 90
+      },
+      {
+        "models": "11 models",
+        "points": 165
+      },
+      {
+        "models": "12 models",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Troupe Master",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Voidweaver",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Vypers",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "War Walkers",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Warlock",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 45
+      }
+    ]
+  },
+  {
+    "name": "Warlock Conclave",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 60
+      },
+      {
+        "models": "4 models",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Warlock Skyrunner",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Warlock Skyrunner Conclave",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 100
+      },
+      {
+        "models": "3 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Warp Spiders",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 100
+      },
+      {
+        "models": "10 models",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Wave Serpent",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Webway Gate",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Windriders",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 80
+      },
+      {
+        "models": "6 models",
+        "points": 160
+      },
+      {
+        "models": "9 models",
+        "points": 240
+      }
+    ]
+  },
+  {
+    "name": "Wraithblades",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 170
+      },
+      {
+        "models": "10 models",
+        "points": 340
+      }
+    ]
+  },
+  {
+    "name": "Wraithguard",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 155
+      },
+      {
+        "models": "10 models",
+        "points": 310
+      }
+    ]
+  },
+  {
+    "name": "Wraithknight",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 370
+      }
+    ]
+  },
+  {
+    "name": "Wraithlord",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Yvraine",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  }
+]

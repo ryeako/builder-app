@@ -1,0 +1,1236 @@
+[
+  {
+    "name": "Adrax Agatone",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Aggressor Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 110
+      },
+      {
+        "models": "6 models",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Ancient in Terminator Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Apothecary Biologis",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Assault Intercessor Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 90
+      },
+      {
+        "models": "10 models",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Assault Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 95
+      },
+      {
+        "models": "10 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Assault Squad with Jump Packs",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 115
+      },
+      {
+        "models": "10 models",
+        "points": 230
+      }
+    ]
+  },
+  {
+    "name": "Astartes Servitors",
+    "options": [
+      {
+        "models": "4 models",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Attack Bike Squad",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      },
+      {
+        "models": "2 models",
+        "points": 110
+      },
+      {
+        "models": "3 models",
+        "points": 165
+      }
+    ]
+  },
+  {
+    "name": "Ballistus Dreadnought",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 170
+      }
+    ]
+  },
+  {
+    "name": "Bike Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 80
+      },
+      {
+        "models": "6 models",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Attack Bike .....................................................+ 55 pts",
+    "options": []
+  },
+  {
+    "name": "Bladeguard Ancient",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      }
+    ]
+  },
+  {
+    "name": "Bladeguard Veteran Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 100
+      },
+      {
+        "models": "6 models",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Brutalis Dreadnought",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Captain",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Captain in Gravis Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Captain in Phobos Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Captain in Terminator Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Captain on Bike",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Captain Sicarius",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Captain with Jump Pack",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Centurion Assault Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 175
+      },
+      {
+        "models": "6 models",
+        "points": 350
+      }
+    ]
+  },
+  {
+    "name": "Centurion Devastator Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 205
+      },
+      {
+        "models": "6 models",
+        "points": 410
+      }
+    ]
+  },
+  {
+    "name": "Chaplain",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Chaplain Cassius",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Chaplain in Terminator Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Chaplain on Bike",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Chaplain with Jump Pack",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Chief Librarian Tigurius",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Command Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 165
+      }
+    ]
+  },
+  {
+    "name": "Contemptor Dreadnought",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 170
+      }
+    ]
+  },
+  {
+    "name": "Darnath Lysander",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Desolation Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 120
+      },
+      {
+        "models": "10 models",
+        "points": 240
+      }
+    ]
+  },
+  {
+    "name": "Devastator Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 120
+      },
+      {
+        "models": "10 models",
+        "points": 200
+      }
+    ]
+  },
+  {
+    "name": "Dreadnought",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Drop Pod",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Eliminator Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Eradicator Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 95
+      },
+      {
+        "models": "6 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Firestrike Servo-turrets",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      },
+      {
+        "models": "2 models",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Gladiator Lancer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 145
+      }
+    ]
+  },
+  {
+    "name": "Gladiator Reaper",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 155
+      }
+    ]
+  },
+  {
+    "name": "Gladiator Valiant",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 155
+      }
+    ]
+  },
+  {
+    "name": "Hammerfall Bunker",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 210
+      }
+    ]
+  },
+  {
+    "name": "Heavy Intercessor Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 110
+      },
+      {
+        "models": "10 models",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Hellblaster Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 125
+      },
+      {
+        "models": "10 models",
+        "points": 250
+      }
+    ]
+  },
+  {
+    "name": "Hunter",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Impulsor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Inceptor Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 115
+      },
+      {
+        "models": "6 models",
+        "points": 230
+      }
+    ]
+  },
+  {
+    "name": "Incursor Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 90
+      },
+      {
+        "models": "10 models",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Infernus Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 90
+      },
+      {
+        "models": "10 models",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Infiltrator Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 90
+      },
+      {
+        "models": "10 models",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Intercessor Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 95
+      },
+      {
+        "models": "10 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Invader ATV",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Invictor Tactical Warsuit",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Iron Father Feirros",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Ironclad Dreadnought",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Judiciar",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Kayvaan Shrike",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 110
+      }
+    ]
+  },
+  {
+    "name": "Kor’sarro Khan",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Land Raider",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 275
+      }
+    ]
+  },
+  {
+    "name": "Land Raider Crusader",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 255
+      }
+    ]
+  },
+  {
+    "name": "Land Raider Redeemer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 295
+      }
+    ]
+  },
+  {
+    "name": "Land Speeder",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Land Speeder Storm",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Land Speeder Tornado",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Land Speeder Typhoon",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Librarian",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Librarian in Phobos Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Librarian in Terminator Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Librarian with Jump Pack",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Lieutenant",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Lieutenant in Phobos Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Lieutenant in Reiver Armour",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Lieutenant with Combi-weapon",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Marneus Calgar",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 205
+      }
+    ]
+  },
+  {
+    "name": "Outrider Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 115
+      },
+      {
+        "models": "6 models",
+        "points": 230
+      }
+    ]
+  },
+  {
+    "name": "Invader ATV......................................................+80 pts",
+    "options": []
+  },
+  {
+    "name": "Pedro Kantor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Predator Annihilator",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Predator Destructor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Primaris Ancient",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Primaris Apothecary",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Primaris Captain",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Primaris Chaplain",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Primaris Company Champion",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Primaris Librarian",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Primaris Lieutenant",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Primaris Techmarine",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Razorback",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Redemptor Dreadnought",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 225
+      }
+    ]
+  },
+  {
+    "name": "Reiver Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 95
+      },
+      {
+        "models": "10 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Relic Terminator Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 200
+      },
+      {
+        "models": "10 models",
+        "points": 400
+      }
+    ]
+  },
+  {
+    "name": "Repulsor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 195
+      }
+    ]
+  },
+  {
+    "name": "Repulsor Executioner",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 230
+      }
+    ]
+  },
+  {
+    "name": "Rhino",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Roboute Guilliman",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 355
+      }
+    ]
+  },
+  {
+    "name": "Scout Bike Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 75
+      },
+      {
+        "models": "6 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Scout Sniper Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 75
+      },
+      {
+        "models": "10 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Scout Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 70
+      },
+      {
+        "models": "10 models",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Sergeant Chronus",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Sergeant Telion",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Stalker",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Sternguard Veteran Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 105
+      },
+      {
+        "models": "10 models",
+        "points": 210
+      }
+    ]
+  },
+  {
+    "name": "Storm Speeder Hailstrike",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Storm Speeder Hammerstrike",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Storm Speeder Thunderstrike",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Stormhawk Interceptor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 165
+      }
+    ]
+  },
+  {
+    "name": "Stormraven Gunship",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 255
+      }
+    ]
+  },
+  {
+    "name": "Stormtalon Gunship",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 175
+      }
+    ]
+  },
+  {
+    "name": "Suppressor Squad",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Tactical Squad",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 175
+      }
+    ]
+  },
+  {
+    "name": "Techmarine",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Terminator Assault Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 200
+      },
+      {
+        "models": "10 models",
+        "points": 400
+      }
+    ]
+  },
+  {
+    "name": "Terminator Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 205
+      },
+      {
+        "models": "10 models",
+        "points": 410
+      }
+    ]
+  },
+  {
+    "name": "Thunderfire Cannon",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Tor Garadon",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "name": "Tyrannic War Veterans",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Uriel Ventris",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Vanguard Veteran Squad",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 120
+      },
+      {
+        "models": "10 models",
+        "points": 240
+      }
+    ]
+  },
+  {
+    "name": "Vanguard Veteran Squad with Jump Packs",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 130
+      },
+      {
+        "models": "10 models",
+        "points": 260
+      }
+    ]
+  },
+  {
+    "name": "Vindicator",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 205
+      }
+    ]
+  },
+  {
+    "name": "Vulkan He’stan",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Whirlwind",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      }
+    ]
+  }
+]

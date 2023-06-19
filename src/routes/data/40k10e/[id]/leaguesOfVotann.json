@@ -1,0 +1,126 @@
+[
+  {
+    "name": "Brôkhyr Iron-master",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Brôkhyr Thunderkyn",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 95
+      },
+      {
+        "models": "6 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Cthonian Beserks",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 135
+      },
+      {
+        "models": "10 models",
+        "points": 270
+      }
+    ]
+  },
+  {
+    "name": "Einhyr Champion",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Einhyr Hearthguard",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 165
+      },
+      {
+        "models": "10 models",
+        "points": 330
+      }
+    ]
+  },
+  {
+    "name": "Grimnyr",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Hearthkyn Warriors",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Hekaton Land Fortress",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 245
+      }
+    ]
+  },
+  {
+    "name": "Hernkyn Pioneers",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 105
+      },
+      {
+        "models": "6 models",
+        "points": 210
+      }
+    ]
+  },
+  {
+    "name": "Kâhl",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 90
+      }
+    ]
+  },
+  {
+    "name": "Sagitaur",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Ûthar the Destined",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  }
+]

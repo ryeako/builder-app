@@ -65,3 +65,7 @@ body {
   padding: 0;
   line-height: inherit;
 }
+
+.screen-adjust {
+  width: calc(100vw - 4rem);
+}

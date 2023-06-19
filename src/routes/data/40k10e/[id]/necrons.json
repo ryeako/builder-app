@@ -1,0 +1,520 @@
+[
+  {
+    "name": "Annihilation Barge",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Anrakyr the Traveller",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "C’tan Shard of the Deceiver",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 265
+      }
+    ]
+  },
+  {
+    "name": "C’tan Shard of the Nightbringer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 255
+      }
+    ]
+  },
+  {
+    "name": "C’tan Shard of the Void Dragon",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 270
+      }
+    ]
+  },
+  {
+    "name": "Canoptek Doomstalker",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Canoptek Reanimator",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "name": "Canoptek Scarab Swarms",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 40
+      },
+      {
+        "models": "6 models",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Canoptek Spyders",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      },
+      {
+        "models": "2 models",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Canoptek Wraiths",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 110
+      },
+      {
+        "models": "6 models",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Catacomb Command Barge",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 150
+      }
+    ]
+  },
+  {
+    "name": "Chronomancer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      }
+    ]
+  },
+  {
+    "name": "Convergence of Dominion",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 255
+      }
+    ]
+  },
+  {
+    "name": "Cryptothralls",
+    "options": [
+      {
+        "models": "2 models",
+        "points": 40
+      }
+    ]
+  },
+  {
+    "name": "Deathmarks",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 65
+      },
+      {
+        "models": "10 models",
+        "points": 130
+      }
+    ]
+  },
+  {
+    "name": "Doom Scythe",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 225
+      }
+    ]
+  },
+  {
+    "name": "Doomsday Ark",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 185
+      }
+    ]
+  },
+  {
+    "name": "Flayed Ones",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 70
+      },
+      {
+        "models": "10 models",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Ghost Ark",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Hexmark Destroyer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Illuminor Szeras",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Immortals",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 70
+      },
+      {
+        "models": "10 models",
+        "points": 140
+      }
+    ]
+  },
+  {
+    "name": "Imotekh the Stormlord",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Lokhust Destroyers",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 30
+      },
+      {
+        "models": "2 models",
+        "points": 60
+      },
+      {
+        "models": "3 models",
+        "points": 90
+      },
+      {
+        "models": "6 models",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Lokhust Heavy Destroyers",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 45
+      },
+      {
+        "models": "2 models",
+        "points": 90
+      },
+      {
+        "models": "3 models",
+        "points": 135
+      }
+    ]
+  },
+  {
+    "name": "Lokhust Lord",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Lord",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 65
+      }
+    ]
+  },
+  {
+    "name": "Lychguard",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 95
+      },
+      {
+        "models": "10 models",
+        "points": 190
+      }
+    ]
+  },
+  {
+    "name": "Monolith",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 385
+      }
+    ]
+  },
+  {
+    "name": "Necron Warriors",
+    "options": [
+      {
+        "models": "10 models",
+        "points": 120
+      },
+      {
+        "models": "20 models",
+        "points": 240
+      }
+    ]
+  },
+  {
+    "name": "Nemesor Zahndrekh",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Night Scythe",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 145
+      }
+    ]
+  },
+  {
+    "name": "Obelisk",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 325
+      }
+    ]
+  },
+  {
+    "name": "Ophydian Destroyers",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 110
+      },
+      {
+        "models": "6 models",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Orikan the Diviner",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 80
+      }
+    ]
+  },
+  {
+    "name": "Overlord",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "name": "Plasmancer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 55
+      }
+    ]
+  },
+  {
+    "name": "Psychomancer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 50
+      }
+    ]
+  },
+  {
+    "name": "Royal Warden",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 40
+      }
+    ]
+  },
+  {
+    "name": "Skorpekh Destroyers",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 110
+      },
+      {
+        "models": "6 models",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Skorpekh Lord",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Technomancer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "name": "Tesseract Vault",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 425
+      }
+    ]
+  },
+  {
+    "name": "The Silent King",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 470
+      }
+    ]
+  },
+  {
+    "name": "Tomb Blades",
+    "options": [
+      {
+        "models": "3 models",
+        "points": 80
+      },
+      {
+        "models": "6 models",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Transcendent C’tan",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 280
+      }
+    ]
+  },
+  {
+    "name": "Trazyn the Infinite",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Triarch Praetorians",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 135
+      },
+      {
+        "models": "10 models",
+        "points": 270
+      }
+    ]
+  },
+  {
+    "name": "Triarch Stalker",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 125
+      }
+    ]
+  },
+  {
+    "name": "Vargard Obyron",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  }
+]

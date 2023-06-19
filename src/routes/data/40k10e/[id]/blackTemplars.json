@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Black Templars Gladiator Lancer",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 160
+      }
+    ]
+  },
+  {
+    "name": "Black Templars Gladiator Reaper",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 175
+      }
+    ]
+  },
+  {
+    "name": "Black Templars Gladiator Valiant",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 180
+      }
+    ]
+  },
+  {
+    "name": "Black Templars Impulsor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 115
+      }
+    ]
+  },
+  {
+    "name": "Black Templars Repulsor",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 220
+      }
+    ]
+  },
+  {
+    "name": "Black Templars Repulsor Executioner",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 245
+      }
+    ]
+  },
+  {
+    "name": "Castellan",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 70
+      }
+    ]
+  },
+  {
+    "name": "Chaplain Grimaldus",
+    "options": [
+      {
+        "models": "4 models",
+        "points": 120
+      }
+    ]
+  },
+  {
+    "name": "Crusader Squad",
+    "options": [
+      {
+        "models": "1 Sword Brother and 4 Initiates",
+        "points": 75
+      },
+      {
+        "models": "1 Sword Brother and 9 Initiates",
+        "points": 145
+      },
+      {
+        "models": "1 Sword Brother, 4 Initiates and 5 Neophytes",
+        "points": 145
+      },
+      {
+        "models": "1 Sword Brother, 9 Initiates and 10 Neophytes",
+        "points": 290
+      }
+    ]
+  },
+  {
+    "name": "High Marshal Helbrecht",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 105
+      }
+    ]
+  },
+  {
+    "name": "Marshal",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 75
+      }
+    ]
+  },
+  {
+    "name": "Primaris Crusader Squad",
+    "options": [
+      {
+        "models": "1 Sword Brother, 5 Initiates and 4 Neophytes",
+        "points": 160
+      },
+      {
+        "models": "1 Sword Brother, 11 Initiates and 8 Neophytes",
+        "points": 320
+      }
+    ]
+  },
+  {
+    "name": "Primaris Sword Brethren",
+    "options": [
+      {
+        "models": "5 models",
+        "points": 150
+      },
+      {
+        "models": "11 models",
+        "points": 330
+      }
+    ]
+  },
+  {
+    "name": "The Emperor’s Champion",
+    "options": [
+      {
+        "models": "1 model",
+        "points": 85
+      }
+    ]
+  }
+]
