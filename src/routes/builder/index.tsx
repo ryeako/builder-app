@@ -54,7 +54,7 @@ export default component$(() => {
                         {armies ? armies?.find(a => a.id === selectedArmy.value)?.name : null}
                     </div>
                     <div>
-                        {points.value}/2000
+                        {points.value || 0}/2000
                     </div>
                 </h1>
 
