@@ -11,12 +11,12 @@ export const UnitCard = component$<IUnitCardProps>(({ armyUnit, onClick$ }) => {
     const unitClick = $((option: IUnitOption) => onClick$ ? onClick$({ name: name, options: [option] }) : undefined)
 
     return (
-        <div class="block rounded-lg bg-white p-1 shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_15px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700">
+        <div class="block rounded-lg bg-white p-1 dark:bg-neutral-700 border-solid border-b-2 dark:border-white border-black m-1">
             <h5 class="mb-2 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
                 {name}
             </h5>
             {  options ? 
-            <ul class="mb-4 text-neutral-600 dark:text-neutral-200">
+            <ul class="text-neutral-600 dark:text-neutral-200">
                 {options.map((o, i) => <UnitOption unitOptions={o}  key={i} onClick$={unitClick} />)}
             </ul>
             : null}
@@ -28,13 +28,17 @@ export const UnitOption = component$<IUnitOptionProps>(({unitOptions, onClick$})
     const cloneUnitOptions = {...unitOptions};
 
     return (
-        <li class="flex flex-row justify-between mb-2 p-3 bg-slate-700">
-            <div>
+        <li class="grid grid-flow-col grid-rows-1 bg-slate-700 items-center mb-1">
+            <span>
                 {`${unitOptions.models}....${unitOptions.points}pts`}
+            </span>
+            <div class="justify-self-end">
+                <button onClick$={() => onClick$(cloneUnitOptions)} 
+                    type="button" 
+                    class="dark:bg-white p-2 dark:text-black text-lg w-auto font-bold bg-black items-center justify-center rounded-sm mx-2 my-auto">
+                    <HiPlusSolid />
+                </button>
             </div>
-            <button onClick$={() => onClick$(cloneUnitOptions)} type="button" class="dark:bg-white p-2 dark:text-black text-lg font-bold bg-black items-center justify-center rounded-sm mx-2 my-auto">
-                <HiPlusSolid />
-            </button>
         </li>
     )
 });
