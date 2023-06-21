@@ -19,7 +19,7 @@ export default component$(() => {
     });
     const armyUnits = useStore<IArmyUnit[]>([]);
 
-    const addUnit = $((armySelect: IArmyUnit) => { armyUnits.push(armySelect) });
+    const addUnit = $((armySelect: IArmyUnit) => { console.log(`addUnit start: ${new Date()}`); armyUnits.push(armySelect); console.log(`addUnit end: ${new Date()}`); });
     const removeUnit = $((index: number): void => { 
         armyUnits.splice(index, 1);
     });
@@ -59,7 +59,7 @@ export default component$(() => {
                             onRejected={() => <p>Nothing to see here; move along.</p>} />
                     </div>
                     <div class="border-solid border-white border-l-2 overflow-y-auto">
-                        {armyUnits ? armyUnits?.map((units, i) => <UnitCard key={i} armyUnit={units} onClick$={() => { removeUnit(i) }} />) : null}
+                        {armyUnits ? armyUnits?.map((units, i) => <UnitCard key={i} armyUnit={units} onClick$={() => { console.log(`removeUnit start: ${new Date()}`); removeUnit(i); console.log(`removeUnit end: ${new Date()}`); }} />) : null}
                     </div>
                 </article>
             </div>
