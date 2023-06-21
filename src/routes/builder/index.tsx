@@ -1,4 +1,4 @@
-import { Resource, component$, useResource$, useSignal, $, useStore, useComputed$ } from "@builder.io/qwik";
+import { Resource, component$, useResource$, useSignal, $, useStore, useComputed$, useStylesScoped$ } from "@builder.io/qwik";
 import armies from './../data/40k10e/armies.json';
 import { Card } from "~/components/army-card";
 import { UnitCard } from "~/components/unit-card";
@@ -28,8 +28,18 @@ export default component$(() => {
         return points;
     });
 
+    useStylesScoped$(`    
+    .screen-adjust-width {
+        width: calc(100vw - 4rem);
+    }
+    
+    .screen-adjust-height {
+        height: calc(100vh - 5rem);
+    }
+    `);
+
     return (
-        <section class="dark:text-black fixed screen-adjust">
+        <section class="dark:text-black fixed screen-adjust-width">
             <div class={[selectedArmy.value !== "" ? "hidden" : "", "flex flex-row flex-wrap gap-5 m-5"]}>
             {armies.map((a) => 
                 <button type="button" key={a.id} onClick$={() => selectedArmy.value = a.id} class="p-0">
@@ -39,7 +49,7 @@ export default component$(() => {
             </div>
 
             <div class={selectedArmy.value == "" ? "hidden" : ""}>
-                <h1 class="block border-solid dark:border-white border-black border-b-2 text-xl">
+                <h1 class="block border-solid dark:border-white border-black border-b-2 text-xl h-20">
                     <div>
                         {armies ? armies?.find(a => a.id === selectedArmy.value)?.name : null}
                     </div>
@@ -48,7 +58,7 @@ export default component$(() => {
                     </div>
                 </h1>
 
-                <article class="grid grid-cols-2 gap-3 h-screen">
+                <article class="grid grid-cols-2 gap-3 relative screen-adjust-height">
                     <div class="overflow-y-auto">
                         <Resource 
                             value={armyOptions} 
