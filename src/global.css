@@ -65,3 +65,8 @@ body {
   padding: 0;
   line-height: inherit;
 }
+
+/* Fixing screen width on content containers */
+.screen-adjust-width {
+  width: calc(100vw - 4rem);
+}

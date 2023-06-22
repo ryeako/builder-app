@@ -1,11 +1,11 @@
 import { component$, $ } from "@builder.io/qwik";
-import { HiPlusSolid } from "@qwikest/icons/heroicons";
+import { HiMinusSolid, HiPlusSolid } from "@qwikest/icons/heroicons";
 import type { IUnitCardProps } from "~/models/iunitCardProps";
 import type { IUnitOption } from "~/models/iunitOption";
 import type { IUnitOptionProps } from "~/models/iunitOptionProps";
 
 
-export const UnitCard = component$<IUnitCardProps>(({ armyUnit, onClick$ }) => {
+export const UnitCard = component$<IUnitCardProps>(({ armyUnit, icon, onClick$ }) => {
     const name = armyUnit.name;
     const options = Array.isArray(armyUnit.options) ? armyUnit.options : [armyUnit.options];
     const unitClick = $((option: IUnitOption) => onClick$ ? onClick$({ name: name, options: [option] }) : undefined)
@@ -17,14 +17,14 @@ export const UnitCard = component$<IUnitCardProps>(({ armyUnit, onClick$ }) => {
             </h5>
             {  options ? 
             <ul class="text-neutral-600 dark:text-neutral-200">
-                {options.map((o, i) => <UnitOption unitOptions={o}  key={i} onClick$={unitClick} />)}
+                {options.map((o, i) => <UnitOption unitOptions={o} icon={icon} key={i} onClick$={unitClick} />)}
             </ul>
             : null}
         </div>
     );
 });
 
-export const UnitOption = component$<IUnitOptionProps>(({unitOptions, onClick$}) => {
+export const UnitOption = component$<IUnitOptionProps>(({unitOptions, icon, onClick$}) => {
     const cloneUnitOptions = {...unitOptions};
 
     return (
@@ -36,7 +36,7 @@ export const UnitOption = component$<IUnitOptionProps>(({unitOptions, onClick$})
                 <button onClick$={() => onClick$(cloneUnitOptions)} 
                     type="button" 
                     class="dark:bg-white p-2 dark:text-black text-lg w-auto font-bold bg-black items-center justify-center rounded-sm mx-2 my-auto">
-                    <HiPlusSolid />
+                    { icon === "add" ? <HiPlusSolid /> : <HiMinusSolid /> }
                 </button>
             </div>
         </li>
