@@ -1,8 +1,8 @@
 import type { PropFunction } from "@builder.io/qwik";
-import type { IUnitOption } from "./iunitOption";
 import type { IUnitCardBase } from "./iunitCardBase";
+import type { UnitComposition } from "./GwAppInterfaces";
 
 export interface IUnitOptionProps extends IUnitCardBase {
-    unitOptions: IUnitOption,
-    onClick$: PropFunction<(unitOption: IUnitOption) => void>;
+    unitOptions: UnitComposition,
+    onClick$: PropFunction<(unitOption: UnitComposition) => void>;
 }

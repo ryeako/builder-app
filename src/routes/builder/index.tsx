@@ -1,18 +1,11 @@
 import { component$ } from "@builder.io/qwik";
 import { Card } from "~/components/army-card";
 import { Link, routeLoader$ } from "@builder.io/qwik-city";
-import { readFile } from 'fs/promises';
-import path from 'path'
-import type { Dump } from "~/models/GwAppInterfaces";
 import { Spinner } from "~/components/spinner";
+import { getArmies } from "~/services/40kServerCache";
 
 export const useArmies = routeLoader$(async () => {
-    const filePath = `${path.resolve('./')}\\src\\routes\\data\\40k10e\\dump.json`;
-
-    const file = await readFile(filePath, 'utf8');
-    const data = JSON.parse(file) as Dump;
-
-    return data.data.publication;
+    return getArmies();
 });
 
 export default component$(() => {

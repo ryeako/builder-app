@@ -1,6 +1,6 @@
-import { IUnitOption } from "./iunitOption";
+import type { Datasheet, UnitComposition } from "./GwAppInterfaces";
 
 export interface IArmyUnit {
-    name: string,
-    options: IUnitOption[]
+    dataSheet: Datasheet,
+    unitComponent: UnitComposition
 }
