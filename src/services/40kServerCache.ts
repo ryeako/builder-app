@@ -1,7 +1,7 @@
 import { server$ } from "@builder.io/qwik-city";
 import { readFile } from "fs/promises";
 import path from "path";
-import type { Dump } from "~/models/GwAppInterfaces";
+import type { Dump, UnitComposition } from "~/models/GwAppInterfaces";
 
 let dataCache: Dump | undefined = undefined;
 
@@ -38,9 +38,24 @@ export const getDataSheets =async (publicationId:string) => {
     return data.data.datasheet.filter(f => f.publicationId === publicationId);
 }
 
-export const getDataSheetOptions =async (dataSheetId:string) => {
+export interface UnitCompositionExtended extends UnitComposition {
+    min: number,
+    max: number
+}
+
+export const getDataSheetOptions =async (dataSheets:string[]) => {
     const data = dataCache || await baseFile() || undefined;
     if (data === undefined) return undefined;
 
-    return data.data.unit_composition.filter(f => f.datasheetId === dataSheetId);
+    const dataSheetOptions = data.data.unit_composition.filter(f => dataSheets.some(s => f.datasheetId === s));
+    const miniatures = data.data.miniature.filter(f => dataSheets.some(s => s === f.datasheetId));
+    const dataSheetMinis = data.data.unit_composition_miniature.filter(f => dataSheetOptions.some(s => s.id === f.unitCompositionId));
+
+    const dataFinalized = dataSheetOptions.map(m => {
+        const miniature = miniatures.find(f => f.datasheetId === m.datasheetId && f.statlineHidden === false);
+        const minis = dataSheetMinis.find(f => f.unitCompositionId === m.id && f.miniatureId === miniature?.id);
+        return {min: minis?.min || 0, max: minis?.max || 0, ...m} as UnitCompositionExtended;
+    });
+
+    return dataFinalized;
 }

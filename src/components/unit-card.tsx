@@ -9,7 +9,7 @@ import { Spinner } from "./spinner";
 
 export const UnitCard = component$<IUnitCardProps>(({ armyUnit, setOption, icon, onClick$ }) => {
     const name = armyUnit.name;
-    const options =  useResource$(async () => setOption ? [setOption] : await getDataSheetOptions(armyUnit.id));
+    const options =  useResource$(async () => setOption ? [setOption] : await getDataSheetOptions([armyUnit.id]));
     const unitClick = $((option: UnitComposition) => onClick$ ? onClick$(armyUnit, option) : undefined)
 
     return (
@@ -29,9 +29,9 @@ export const UnitCard = component$<IUnitCardProps>(({ armyUnit, setOption, icon,
                         onPending={() => <Spinner />}
                         onRejected={() => <p>Something failed</p>}
                         onResolved={(resOptions) => {
-                            return (resOptions?.map((o) => 
-                                <UnitOption unitOptions={o} icon={icon} key={o.id} onClick$={unitClick} />
-                            ));
+                            return (<> {
+                                resOptions?.sort((a, b) => a.displayOrder - b.displayOrder).map((o) => <UnitOption unitOptions={o} icon={icon} key={o.id} onClick$={unitClick} />)
+                        }</>);
                         }} />
                 </ul>
                 : null}
@@ -46,7 +46,7 @@ export const UnitOption = component$<IUnitOptionProps>(({unitOptions, icon, onCl
     return (
         <li class="grid grid-flow-col grid-rows-1 bg-slate-700 items-center mb-1">
             <span>
-                {`${unitOptions.points}pts`}
+                {`${unitOptions.max} model${unitOptions.max === 1 ? "": "s"}......${unitOptions.points}pts`}
             </span>
             <div class="justify-self-end">
                 <button onClick$={() => onClick$(cloneUnitOptions)} 
