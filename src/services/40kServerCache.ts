@@ -48,14 +48,25 @@ export const getDataSheetOptions =async (dataSheets:string[]) => {
     if (data === undefined) return undefined;
 
     const dataSheetOptions = data.data.unit_composition.filter(f => dataSheets.some(s => f.datasheetId === s));
-    const miniatures = data.data.miniature.filter(f => dataSheets.some(s => s === f.datasheetId));
+    const baseMiniatures = data.data.miniature.filter(f => dataSheets.some(s => s === f.datasheetId));
     const dataSheetMinis = data.data.unit_composition_miniature.filter(f => dataSheetOptions.some(s => s.id === f.unitCompositionId));
 
     const dataFinalized = dataSheetOptions.map(m => {
-        const miniature = miniatures.find(f => f.datasheetId === m.datasheetId && f.statlineHidden === false);
-        const minis = dataSheetMinis.find(f => f.unitCompositionId === m.id && f.miniatureId === miniature?.id);
-        return {min: minis?.min || 0, max: minis?.max || 0, ...m} as UnitCompositionExtended;
+        const miniature = baseMiniatures.filter(f => f.datasheetId === m.datasheetId);
+        // Units that have squad leaders separated
+        const minaturesDisplay = miniature.find(f => f.statlineHidden === false); 
+        const minis = dataSheetMinis.find(f => f.unitCompositionId === m.id && f.miniatureId === minaturesDisplay?.id);
+
+        let max = minis?.max || 0;
+        if (miniature.length > 1) {
+            max = dataSheetMinis
+                .filter(f => f.unitCompositionId === m.id && miniature.some(s => f.miniatureId === s.id))
+                .reduce((acc, curr) => acc + curr.max , 0);
+        }
+
+        return {min: minis?.min || 0, max: max, ...m} as UnitCompositionExtended;
     });
 
     return dataFinalized;
 }
+

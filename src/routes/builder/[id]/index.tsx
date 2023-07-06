@@ -1,5 +1,5 @@
 import type { QRL } from "@builder.io/qwik";
-import { component$, useComputed$, useStore, $, useStylesScoped$ } from "@builder.io/qwik";
+import { component$, useComputed$, useStore, $, useStylesScoped$, createContextId, useContextProvider } from "@builder.io/qwik";
 import { routeLoader$ } from "@builder.io/qwik-city";
 import { v4 as uuidv4 } from "uuid";
 import { UnitCard } from "~/components/unit-card";
@@ -11,6 +11,8 @@ export type IArmyState = {
     addUnit: QRL<(this: IArmyState, armyUnit: IArmyUnit) => void>
     removeUnit: QRL<(this: IArmyState, id: string) => void>
 }
+
+export const ArmyContext = createContextId<IArmyState>('builder.army.context');
 
 export const useArmyDetails = routeLoader$(async (requestEvent) => {
     const armyDetails = await getDataSheets(requestEvent.params.id);
@@ -38,6 +40,8 @@ export default component$(() => {
         })
     }, {deep: true});
 
+    useContextProvider(ArmyContext, state);
+
     const points = useComputed$(() => {
         const points = state.armyUnits.length > 0 
             ? state.armyUnits.reduce((acc, curr) => acc + curr.unitComponent.points, 0)
@@ -60,14 +64,13 @@ export default component$(() => {
                 <div class="overflow-y-auto">
                     { armyDetails?.sort((a, b) => a.displayOrder - b.displayOrder).map((ad, i) => 
                         <div class="my-1" key={i}>
-                            {ad.id}
-                            <UnitCard key={i} icon="add" armyUnit={ad} onClick$={(dataSheet, option) => state.addUnit({ id: uuidv4(), dataSheet: dataSheet, unitComponent: option})} />
+                            <UnitCard key={i} icon="add" dataSheet={ad} />
                         </div> )}
                 </div>
                 <div class="border-solid border-white border-l-2 overflow-y-auto">
                     {state ? state?.armyUnits.map((units) => 
                     <div class="mb-1" key={units.id}>
-                        <UnitCard icon="subtract" armyUnit={units.dataSheet} setOption={units.unitComponent} onClick$={() => { state.removeUnit(units.id) }} />
+                        <UnitCard icon="subtract" armyUnit={units} dataSheet={units.dataSheet} unitComposition={units.unitComponent} />
                     </div>) : null}
                 </div>
             </article>
